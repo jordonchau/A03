@@ -28,18 +28,18 @@ How to Use Webstorm
 
 Part 2:
 
-Branch-
-Clone-
-Commit-
-Fetch-
-GIT-
-Github-
-Merge-
-Merge Conflict-
-Push-
-Pull-
-Remote-
-Repository-
+**Branch** - an instruction that tells the computer to execute a different part of the program instead of executing it one by one.
+**Clone**- has functions and behavior similar to another program but which does not contain source code from that program.
+**Commit**-  used to complete the current transaction 
+**Fetch**- the retrieval of data by a software program, script, or hardware device
+**GIT**- records changes made to your code in a repository
+**Github**- an Internet hosting service for software development and version control using Git
+**Merge**- process of taking two smaller sorted arrays and combining them to eventually make a larger one
+**Merge Conflict**- occurs when Git is unable to automatically resolve differences in code between two commits.
+**Push**- the delivery of information on the Web that is initiated by the information server 
+**Pull**- a style of network communication where the initial request for data originates from the client
+**Remote**- a computer that a user has no access to physically, but may be able to access it remotely via a network link from another computer
+**Repository**- is a central file storage location
 
 
 
@@ -49,8 +49,17 @@ Repository-
 
 
 Sources:
+www.gitkraken.com/learn/git/tutorials/how-to-resolve-merge-conflict-in-git
 https://unito.io/blog/beginners-guide-to-github/#:~:text=A%20guide%20to%20GitHub%3A%20Getting%20started%20with%20your,pull%20request%20...%206%20Step%206%3A%20Celebrate%21%20
-
+www.geeksforgeeks.org/merge-sort/
+en.wikipedia.org/wiki/GitHub
 https://phoenixnap.com/kb/how-to-use-git#:~:text=Git%20Tutorial%3A%20How%20to%20Use%20Git%20%7BBeginner%27s%20Step-by-Step,8%3A%20Create%20a%20New%20Branch%20...%20More%20items
-
+https://phoenixnap.com/kb/what-is-git
 https://www.educba.com/webstorm-ide/
+www.techopedia.com/definition/18058/branch
+www.linfo.org/clone.html
+www.ibm.com/docs/en/ssw_ibm_i_73/cl/commit.htm
+www.techtarget.com/whatis/definition/push-or-server-push
+en.wikipedia.org/wiki/Pull_technology
+https://www.techopedia.com/definition/23696
+techterms.com/definition/repository
